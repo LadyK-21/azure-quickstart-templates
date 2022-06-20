@@ -56,7 +56,7 @@ This is an experimental module at the moment...
 | subnetName | string | The name of the subnet.|
 | virtualNetworkAddressPrefixes | array | Address ranges for the virtualNetwork. The value of the virtualNetworkAddressRanges parameter. |
 
-```apiVersion: n/a```
+```apiVersion: 0.9```
 
 
 `Tags:Microsoft.Network/publicIPAddresses, Microsoft.Compute/availabilitySets, Microsoft.Resources/deployments, Microsoft.Network/loadBalancers, Microsoft.Network/networkInterfaces, Microsoft.Compute/virtualMachines, extensions, DSC`
